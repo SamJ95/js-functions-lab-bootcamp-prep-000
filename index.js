@@ -4,4 +4,4 @@ console.log(happyHolidays())
 
 function happyHolidays(name){return "Happy holidays!, ${name}"}
 
-console.log(happyHolidays(name))
+console.log(happyHolidays(Sam))
